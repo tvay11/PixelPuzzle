@@ -393,7 +393,6 @@ void MainWindow::startQuickSort()
 
 void MainWindow::quickSortGallery()
 {
-    cout<<"running"<<endl;
     if (low < high) {
         int pi = partition(gallery.album, low, high);
 
