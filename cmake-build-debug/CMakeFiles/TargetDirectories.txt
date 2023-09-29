@@ -1,0 +1,4 @@
+/Users/thangvay/CLionProjects/untitled15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thangvay/CLionProjects/untitled15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thangvay/CLionProjects/untitled15/cmake-build-debug/CMakeFiles/PixelPuzzle.dir
+/Users/thangvay/CLionProjects/untitled15/cmake-build-debug/CMakeFiles/PixelPuzzle_autogen.dir
